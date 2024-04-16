@@ -3,7 +3,7 @@ package com.cerp.modelo;
 /**
  * @file Pregunta.java
  * @brief Clase para representar una pregunta en el juego de preguntas y respuestas.
- * @date 20/03/2023
+ * @date 16/04/2023
  * @version 1.0
  */
 ///Prueba
