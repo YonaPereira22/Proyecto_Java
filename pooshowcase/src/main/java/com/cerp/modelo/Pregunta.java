@@ -6,7 +6,7 @@ package com.cerp.modelo;
  * @date 20/03/2023
  * @version 1.0
  */
-
+///Prueba
  import java.io.Serializable;
 
  /**
